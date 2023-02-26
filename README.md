@@ -6,7 +6,7 @@
 
 <h2>Contacts</h2>
 <p>
-<a href="mailto:jonnybiruk13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=noooo&logoColor=white"></a>
+<a href="mailto: mustafa@binalhag.dev"><img src="https://img.shields.io/badge/jonnybiruk13@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /> </a>
 <a href="https://www.linkedin.com/in/jonnytilahun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
