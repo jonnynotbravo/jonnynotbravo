@@ -1,8 +1,8 @@
 <h2>Hello</h2>
 
-<li>👋 I'm Jonny,
-<li>💻 I'm a software engineer and web developer who has been passionate about this field since a young age.</li>
-<li>📚 I'm currently learning more about C++, and TypeScript.</li>
+<li>👋 I'm Jonny
+<li>💻 I'm a software engineer and web developer who has been passionate about this field since a young age</li>
+<li>📚 I'm currently learning more about C++, and TypeScript</li>
 
 <h2>Contacts</h2>
 <p>
