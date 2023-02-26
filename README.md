@@ -1,7 +1,7 @@
 <h2>Hello</h2>
 
 <h2>Skills</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnynotbravo&layout=compact)](https://github.com/jonnynotbravo/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnynotbravo&theme=dark&layout=compact)](https://github.com/jonnynotbravo/github-readme-stats">
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
