@@ -10,8 +10,6 @@
 <a href="mailto: mustafa@binalhag.dev" target="_blank"><img src="https://img.shields.io/badge/jonnybiruk13@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a>
 </p>
 
-<h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=jonnynotbravo&show_icons=true&theme=dark&show_icons=true"><br>
 
 <h2>Skills</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnynotbravo&layout=compact&langs_count=8&theme=dark">
