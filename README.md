@@ -14,5 +14,6 @@
 <h2>Skills</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnynotbravo&layout=compact&langs_count=8&theme=dark">
 
-<img src="https://github.com/YOUR_USERNAME/jonnynobravo/blob/main/github-metrics.svg">
+<h2>🏆 GitHub Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=jonnynotbravo&theme=gruvbox&column=7" />
 
