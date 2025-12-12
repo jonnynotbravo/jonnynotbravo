@@ -1,4 +1,4 @@
-<li>I love coding and hacking :)</li>
+<h1>I love coding and hacking :)</h1>
 
 <h2>Contacts</h2>
 <p>
