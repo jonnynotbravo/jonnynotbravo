@@ -8,7 +8,7 @@
 
 
 <h2>Skills</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnynotbravo&layout=compact&theme=dark" />
+<img src= https://github-readme-stats.vercel.app/api/top-langs/?username=jonnynotbravo&layout=compact&langs_count=10&hide=html,css/>
 
 
 
