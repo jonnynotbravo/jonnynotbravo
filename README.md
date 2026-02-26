@@ -1,4 +1,3 @@
-<h1>I love coding and hacking</h1><h1>I love coding and hacking</h1>
 <h1>I love coding and hacking</h1>
 
 <h2>Most Used Languages</h2>
