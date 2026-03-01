@@ -1,4 +1,4 @@
-<h1>I love coding and hacking</h1>if i had bought tesla, nvidia, google, msft, s & p 500 stock in 2020 for $1000 each, how much would it be now?
+<h1>I love coding and hacking</h1>
 
 <h2>Most Used Languages</h2>
 <img src= "https://github-readme-stats-eight-beryl-84.vercel.app/api/top-langs/?username=jonnynotbravo&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&count_private=true&cache_seconds=1800"
